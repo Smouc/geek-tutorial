@@ -34,3 +34,6 @@
 <code>[О ветвлении и не только](https://git-scm.com/book/ru/v2/%D0%92%D0%B5%D1%82%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5-%D0%B2-Git-%D0%9E-%D0%B2%D0%B5%D1%82%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B8-%D0%B2-%D0%B4%D0%B2%D1%83%D1%85-%D1%81%D0%BB%D0%BE%D0%B2%D0%B0%D1%85)
 </code>
 
+
+## И немного котиков
+![котик](https://kartinkin.net/uploads/posts/2022-03/1646793846_48-kartinkin-net-p-milii-kotik-kartinki-52.jpg)
