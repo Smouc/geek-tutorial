@@ -37,3 +37,9 @@
 
 ## И немного котиков
 ![котик](https://kartinkin.net/uploads/posts/2022-03/1646793846_48-kartinkin-net-p-milii-kotik-kartinki-52.jpg)
+
+## Просмотр лога коммитов
+Для просмотра лога коммитов ввелите команду
+```
+    git log --graph --all
+```
